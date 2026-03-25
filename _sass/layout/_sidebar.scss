@@ -156,7 +156,10 @@
   img {
     //max-width: 175px;
     //border-radius: 50%;
-    max-width: 110px;
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    //max-width: 110px;
     border-radius: 50%;
     border: 3px solid #eee;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
