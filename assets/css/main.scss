@@ -7,6 +7,11 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
+.author__avatar img {
+  border-radius: 50%;
+  border: 2px solid #eee;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+}
 
 @import
     "vendor/breakpoint/breakpoint",
