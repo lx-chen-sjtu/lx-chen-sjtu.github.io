@@ -1,7 +1,7 @@
 ---
-title: "Adaptive fog configuration for the industrial internet of things"
+title: "Adaptive Fog Configuration for the Industrial Internet of Things"
 collection: publications
-category: 2018
+category: manuscripts
 date: 2018-06-12
 permalink: /publication/Adaptive fog configuration for the industrial internet of things
 excerpt: '<strong><u>Lixing Chen</u></strong>, Pan Zhou, Liang Gao, Jie Xu'
