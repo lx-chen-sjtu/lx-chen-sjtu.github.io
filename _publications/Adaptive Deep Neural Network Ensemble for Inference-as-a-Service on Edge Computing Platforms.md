@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms"
 collection: publications
-category: 2021
+category: conferences
 date: 2021-10-04
 permalink: /publication/Adaptive Deep Neural Network Ensemble for Inference-as-a-Service on Edge Computing Platforms
 excerpt: 'Yang Bai, <strong><u>Lixing Chen</u></strong>, Letian Zhang, Mohamed Abdel-Mottaleb, Jie Xu'
