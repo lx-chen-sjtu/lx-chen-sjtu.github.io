@@ -1,13 +1,14 @@
-<p class="pub-line">
-  <strong>[{{ post.venue }} {{ post.date | date: "%Y" }}]</strong>
-  {{ post.title }} —
-  {{ post.citation | strip_html }}
+.pub-line {
+  margin: 10px 0;
+  font-size: 15px;
+  line-height: 1.6;
+}
 
-  {% if post.paperurl %}
-    · <a href="{{ post.paperurl }}">Paper</a>
-  {% endif %}
+.pub-line a {
+  margin-left: 6px;
+  text-decoration: none;
+}
 
-  {% if post.slidesurl %}
-    · <a href="{{ post.slidesurl }}">Slides</a>
-  {% endif %}
-</p>
+.pub-line a:hover {
+  text-decoration: underline;
+}
