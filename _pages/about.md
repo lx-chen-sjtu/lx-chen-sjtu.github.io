@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: /
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 Dr. Chen is currently an Associate Professor at the School of Computer Science, Shanghai Jiao Tong University (SJTU). He received his Ph.D. in Electrical and Computer Engineering from the University of Miami in 2020 with Eliahu I. and Joyce Jury Award (Advisor: [Jie Xu](https://faculty.eng.ufl.edu/jiexu)).
 
-📰 News
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. 
 - [2026/04] Three papers are accepted by WWW 2026
