@@ -1,0 +1,13 @@
+<p class="pub-line">
+  <strong>[{{ post.venue }} {{ post.date | date: "%Y" }}]</strong>
+  {{ post.title }} —
+  {{ post.citation | strip_html }}
+
+  {% if post.paperurl %}
+    · <a href="{{ post.paperurl }}">Paper</a>
+  {% endif %}
+
+  {% if post.slidesurl %}
+    · <a href="{{ post.slidesurl }}">Slides</a>
+  {% endif %}
+</p>
