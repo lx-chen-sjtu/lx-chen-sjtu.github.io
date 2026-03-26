@@ -11,10 +11,14 @@ Dr. Chen is currently an Associate Professor at the School of Computer Science, 
 
 <img src="/images/news_logo.jpg" width="28" style="vertical-align:middle;"> News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. 
+Recent updates and highlights:
 - [2026/04] Three papers are accepted by WWW 2026
-- [Mermaid] for diagraming
-- [Plotly] for plotting
+- [2026/02] One paper is accepted by TMC
+- [2026/02] One paper is accepted by TSC
+- [2026/02] One paper is accepted by ToN
+- [2025/12] Two papers are accepted by NeurIPS 2025
+- [2025/09] One paper is accepted by TMC
+- [2025/08] One paper is accepted by KDD 2025
 
 <img src="/images/prospective_students_logo.jpg" width="28" style="vertical-align:middle;"> Prospective Students
 ======
