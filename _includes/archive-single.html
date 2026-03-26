@@ -36,23 +36,15 @@
           {% assign year = post.date | date: "%Y" %}
           <p class="pub-line">
             <!-- 自动编号 -->
-            {{ forloop.index }}. 
+            {{ forloop.length | minus: forloop.index0 }}. 
 
-            <!-- 年份 -->
-            <strong style="color:#c00;">[{{ post.venue }} {{ year }}]</strong>
+            <!-- venue + 年份 -->
+            <strong>[{{ post.venue }} {{ year }}]</strong>
 
             <!-- 作者（自动高亮） -->
             {% assign authors = post.citation | strip_html %}
             {{ authors | replace: "Lixing Chen", "<strong><u>Lixing Chen</u></strong>" }}
             
-           
-            <strong>[{{ post.venue }} {{ post.date | date: "%Y" }}]</strong>
-            {% if post.authors %}
-              {{ post.authors }}
-            {% elsif post.citation %}
-              {{ post.citation | strip_html }}
-            {% endif %}
-
             {% if post.paperurl %}
              <a href="{{ post.paperurl }}">[Paper]</a>
             {% endif %}
