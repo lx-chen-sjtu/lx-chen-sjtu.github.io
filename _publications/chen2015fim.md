@@ -2,7 +2,7 @@
 title: 'FIM-based pairwise selection for active learning on imbalanced datasets'
 collection: publications
 category: conferences
-authors: 'Lixing Chen, Xuemin Tian^*, Lianfang Cai.'
+authors: 'Lixing Chen, Xuemin Tian<sup>*</sup>, Lianfang Cai.'
 permalink: '/publication/chen2015fim'
 date: 2015-01-01
 venue: 'SMC'
