@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Chen is currently an Associate Professor at the School of Computer Science, Shanghai Jiao Tong University (SJTU). He received his Ph.D. in Electrical and Computer Engineering from the University of Miami in 2020 with Eliahu I. and Joyce Jury Award (Advisor: [Jie Xu](https://faculty.eng.ufl.edu/jiexu)).
+Dr. Lixing Chen is an Associate Professor at the School of Computer Science, Shanghai Jiao Tong University (SJTU). He received his Ph.D. in Electrical and Computer Engineering from the University of Miami in 2020 with Eliahu I. and Joyce Jury Award (Advisor: [Jie Xu](https://faculty.eng.ufl.edu/jiexu)). Dr. Chen has authored over 100 papers in leading journals such as IEEE JSAC, IEEE/ACM ToN, IEEE TC, IEEE TMC, IEEE TIFS, as well as premier conferences including NeurIPS, ICML, AAAI, IJCAI, CVPR, and KDD, and 3 papers have been recognized as ESI Highly Cited Papers (top 1%). Dr. Chen ranked among the “Top 2% Scientists Worldwide” for 5 consecutive years and has been honored as a Shanghai Overseas High-Level Talent. He has led more than 10 research projects, including a Young Scientists Fund project from the National Natural Science Foundation of China, a subproject from the National Key Research and Development Program of China, and a key project from the Third Research Institute of the Ministry of Public Security. 
+
+My **research interests** mainly lie in:
+- AI for Web/Web for AI
+- Multi-Agentic AI
+- AI for Cybersecurity
 
 <img src="/images/news_logo.jpg" width="28" style="vertical-align:middle;"> News
 ======
@@ -20,11 +25,11 @@ Recent updates and highlights:
 - [2025/09] One paper is accepted by TMC
 - [2025/08] One paper is accepted by KDD 2025
 
-<img src="/images/prospective_students_logo.jpg" width="28" style="vertical-align:middle;"> Prospective Students
+<img src='/images/prospective_students_logo.jpg' width='28' style='vertical-align:middle;'> Prospective Students
 ======
 I am always looking for enthusiastic and self-motivated students to work together on AI for Web and Cybersecurity. Please email me with your CV and transcripts if you are interested.
 
-<img src="/images/selected_pub_logo.jpg" width="28" style="vertical-align:middle;"> Selected Publications
+<img src='/images/selected_pub_logo.jpg' width='28' style='vertical-align:middle;'> Selected Publications
 ======
 See the full publication list on [Publications](/publications) page.
 
