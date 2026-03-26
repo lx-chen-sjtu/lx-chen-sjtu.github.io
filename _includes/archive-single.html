@@ -43,10 +43,13 @@
 
             <!-- 作者（自动高亮） -->
             {% assign authors = post.authors | strip_html %}
-            {{ authors | replace: "Lixing Chen", "<strong><u>Lixing Chen</u></strong>" }}
-
+            {{ authors| replace: "Lixing Chen", "<strong><u>Lixing Chen</u></strong>" }}
+            
+            {% assign title = post.title | strip_html %}
+            {{title}.}
+            
             {% assign conf_jourl = post.conf_jourl | strip_html %}
-            {{ conf_jourl }}
+            {{ conf_jourl}.}
             
             {% if post.paperurl %}
              <a href="{{ post.paperurl }}">[Paper]</a>
