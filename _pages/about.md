@@ -20,6 +20,21 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 ======
 I am always looking for enthusiastic and self-motivated students to work together on AI for Web and Cybersecurity. Please email me with your CV and transcripts if you are interested.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<h2>Selected Publications</h2>
+<p>More on <a href="/publications">Publications</a> page.</p>
+<!-- 2024AAAI-CMiMC -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <img src="images/pubimg/CMiMC.jpg" class="img-fluid" alt="sym" width="100%" />
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><strong>[AAAI]</strong> What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception</p>
+    <ul>
+      <li>Wanfang Su, <b><u>Lixing Chen</u></b>, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou</li>
+      <li><i>Proceedings of the AAAI Conference on Artificial Intelligence(AAAI)</i>, 2024.</li>
+      <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29705">[Paper]</a>  <a href="https://github.com/77SWF/CMiMC">[Code]</a></li>
+    </ul>
+  </div>
+</div>
