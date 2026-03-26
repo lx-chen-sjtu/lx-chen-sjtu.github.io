@@ -9,7 +9,7 @@ redirect_from:
 
 Dr. Lixing Chen is an Associate Professor at the School of Computer Science, Shanghai Jiao Tong University (SJTU). He received his Ph.D. in Electrical and Computer Engineering from the University of Miami in 2020 with Eliahu I. and Joyce Jury Award (Advisor: [Jie Xu](https://faculty.eng.ufl.edu/jiexu)). Dr. Chen has authored over 100 papers in leading journals such as IEEE JSAC, IEEE/ACM ToN, IEEE TC, IEEE TMC, IEEE TIFS, as well as premier conferences including NeurIPS, ICML, AAAI, IJCAI, CVPR, and KDD, and 3 papers have been recognized as ESI Highly Cited Papers (top 1%). Dr. Chen ranked among the “Top 2% Scientists Worldwide” for 5 consecutive years and has been honored as a Shanghai Overseas High-Level Talent. He has led more than 10 research projects, including a Young Scientists Fund project from the National Natural Science Foundation of China, a subproject from the National Key Research and Development Program of China, and a key project from the Third Research Institute of the Ministry of Public Security. 
 
-My **research interests** mainly lie in:
+My **research interests** include:
 - AI for Web/Web for AI
 - Multi-Agentic AI
 - AI for Cybersecurity
