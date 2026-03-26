@@ -22,12 +22,12 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
 <img src="/images/selected_pub_logo.jpg" width="28" style="vertical-align:middle;"> Selected Publications
 ======
+See the full publication list on [Publications](/publications) page.
+---
 ### [AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception
 ![CMiMC](/images/pubimg/CMiMC.jpg)
 - Wanfang Su, **<u>Lixing Chen</u>**, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou, *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29705)][[Code](https://github.com/77SWF/CMiMC)]
-
-------
-
+---
 ### [AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception
 ![CMiMC](/images/pubimg/CMiMC.jpg)
 - Wanfang Su, **<u>Lixing Chen</u>**, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou, *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29705)][[Code](https://github.com/77SWF/CMiMC)]
