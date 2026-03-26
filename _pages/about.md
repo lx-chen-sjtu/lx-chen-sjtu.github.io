@@ -26,7 +26,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
-      <img src="images/pubimg/CMiMC.jpg" class="img-fluid" alt="sym" width="100%" />
+      <img src="/images/pubimg/CMiMC.jpg" class="img-fluid" alt="sym" width="100%" />
     </div>
   </div>
   <div class="paper-box-text">
