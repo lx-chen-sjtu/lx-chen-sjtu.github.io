@@ -6,7 +6,44 @@
 function copyEmail() {
   const email = "lxchen@sjtu.edu.cn";
   navigator.clipboard.writeText(email).then(function() {
-    alert("Copied to clipboard!");
+    showToast("Copied to clipboard!");
   });
+}
+</script>
+
+<style>
+#toast {
+  visibility: hidden;
+  min-width: 200px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 8px;
+  padding: 10px;
+  position: fixed;
+  z-index: 999;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s, bottom 0.3s;
+}
+#toast.show {
+  visibility: visible;
+  opacity: 1;
+  bottom: 50px;
+}
+</style>
+
+<div id="toast"></div>
+
+<script>
+function showToast(message) {
+  const toast = document.getElementById("toast");
+  toast.innerText = message;
+  toast.className = "show";
+  setTimeout(() => {
+    toast.className = toast.className.replace("show", "");
+  }, 2000);
 }
 </script>
