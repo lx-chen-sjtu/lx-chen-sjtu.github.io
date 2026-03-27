@@ -4,7 +4,7 @@ collection: teaching
 type: 'Postgraduate course'
 permalink: /teaching/spring-teaching-1
 venue: ''
-date: ''
+date: 2026-03-01
 location: ''
 ---
 
