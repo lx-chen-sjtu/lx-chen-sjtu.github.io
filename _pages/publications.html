@@ -34,12 +34,6 @@ author_profile: true
 
 {% assign all_pubs = manuscripts | concat: conferences %}
 
-
-  <li>
-    [{{ forloop.index }}]
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-
 {% for post in all_pubs %}
   <li>
     [{{ forloop.index }}]
