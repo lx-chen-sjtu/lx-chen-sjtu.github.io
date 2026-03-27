@@ -1,11 +1,9 @@
 ---
 title: 'MATH6010 Graphs and Networks'
 collection: teaching
-type: "Postgraduate"
+type: "Postgraduate course"
 permalink: /teaching/fall-teaching-1
-venue: ''
+venue: 'Chen Ruiqiu Building, SJTU Minhang Campus'
 date: 2026-09-01
 location: ''
 ---
-
-This is a description of the course.
