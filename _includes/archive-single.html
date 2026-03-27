@@ -41,10 +41,10 @@
     
     {% elsif post.collection == 'publications' %}
 
-      INDEX: {{ include.index }}
-      <li>
+
+      <p class="pub-line">
         <!-- 编号 -->
-          <strong>[{{ include.index }}]</strong>
+        {{ include.index }}.
         
         {% assign year = post.date | date: "%Y" %}
         <!-- venue + 年份 -->
@@ -66,7 +66,7 @@
         {% if post.slidesurl %}
          <a href="{{ post.slidesurl }}">[Slides]</a>
         {% endif %}
-      </li>
+      </p>
 
 
 
