@@ -40,11 +40,13 @@
 
     
     {% elsif post.collection == 'publications' %}
-      {% if include.index %}
-          {{ include.index }}.
-      {% endif %}
-      {% assign year = post.date | date: "%Y" %}
+
+      
       <p class="pub-line">
+        <!-- 编号 -->
+        {{ forloop.index }}. 
+        
+        {% assign year = post.date | date: "%Y" %}
         <!-- venue + 年份 -->
         <strong>[{{ post.venue }} {{ year }}]</strong>
 
