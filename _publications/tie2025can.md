@@ -6,7 +6,7 @@ authors: 'Guiyao Tie, Zenghui Yuan, Zeli Zhao, Chaoran Hu, Tianhe Gu, Ruihang Zh
 permalink: '/publication/tie2025can'
 date: 2025-01-01
 venue: 'NeurIPS'
-conf_jourl: 'Conference on Neural Information Processing Systems '
+conf_jourl: 'Annual Conference on Neural Information Processing Systems '
 paperurl: 'https://arxiv.org/pdf/2510.16062'
 citation: ''
 ---
