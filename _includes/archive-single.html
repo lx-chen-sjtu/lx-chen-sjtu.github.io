@@ -44,9 +44,7 @@
       INDEX: {{ include.index }}
       <li>
         <!-- 编号 -->
-        {% if include.index %}
           <strong>[{{ include.index }}]</strong>
-        {% endif %}
         
         {% assign year = post.date | date: "%Y" %}
         <!-- venue + 年份 -->
