@@ -34,14 +34,15 @@ author_profile: true
 
 {% assign all_pubs = manuscripts | concat: conferences %}
 
+<ul>
 {% for post in all_pubs %}
   <li>
     [{{ forloop.index }}]
     <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
-
 {% endfor %}
-
+<ul>
+  
 {% endif %}
 
 
