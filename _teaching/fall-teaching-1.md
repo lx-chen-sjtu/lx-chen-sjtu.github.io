@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate"
 permalink: /teaching/fall-teaching-1
 venue: ''
-date: 
+date: 2026-09-01
 location: ''
 ---
 
