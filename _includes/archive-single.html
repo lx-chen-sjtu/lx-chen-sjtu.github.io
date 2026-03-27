@@ -35,6 +35,10 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+
+
+
+    
     {% elsif post.collection == 'publications' %}
       {% assign year = post.date | date: "%Y" %}
       <p class="pub-line">
@@ -62,6 +66,10 @@
         {% endif %}
       </p>
 
+
+
+
+    
     {% elsif post.collection == 'portfolios' %}
       <h2 class="archive__item-title" itemprop="headline">
         {% if post.link %}
