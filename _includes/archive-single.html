@@ -30,36 +30,43 @@
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'publications' %}
-          {% assign year = post.date | date: "%Y" %}
-          <p class="pub-line">
-            <!-- 自动编号 -->
-            {{ forloop.index }}. 
+    {% if post.collection == 'teaching' %}
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.collection == 'publications' %}
+      {% assign year = post.date | date: "%Y" %}
+      <p class="pub-line">
+        <!-- 自动编号 -->
+        {{ forloop.index }}. 
 
-            <!-- venue + 年份 -->
-            <strong>[{{ post.venue }} {{ year }}]</strong>
+        <!-- venue + 年份 -->
+        <strong>[{{ post.venue }} {{ year }}]</strong>
 
-            <!-- 作者（自动高亮） -->
-            {% assign authors = post.authors | strip_html %}
-            {{ authors| replace: "Lixing Chen", "<strong><u>Lixing Chen</u></strong>" }}
-            
-            {% assign title = post.title | strip_html %}
-            {{ title}}.
-            
-            {% assign conf_jourl = post.conf_jourl | strip_html %}
-            {{ conf_jourl}}.
-            
-            {% if post.paperurl %}
-             <a href="{{ post.paperurl }}">[Paper]</a>
-            {% endif %}
-            {% if post.slidesurl %}
-             <a href="{{ post.slidesurl }}">[Slides]</a>
-            {% endif %}
-          </p>
-        {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        <!-- 作者（自动高亮） -->
+        {% assign authors = post.authors | strip_html %}
+        {{ authors| replace: "Lixing Chen", "<strong><u>Lixing Chen</u></strong>" }}
+        
+        {% assign title = post.title | strip_html %}
+        {{ title}}.
+        
+        {% assign conf_jourl = post.conf_jourl | strip_html %}
+        {{ conf_jourl}}.
+        
+        {% if post.paperurl %}
+         <a href="{{ post.paperurl }}">[Paper]</a>
         {% endif %}
+        {% if post.slidesurl %}
+         <a href="{{ post.slidesurl }}">[Slides]</a>
+        {% endif %}
+      </p>
+    {% elsif post.date %}
+     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    {% endif %}
+
+    {% if post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+    
   </article>
 </div>
