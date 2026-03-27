@@ -28,13 +28,27 @@ author_profile: true
   {% endfor %}
 {% else %}
 
-{% assign manuscripts = site.publications | where: "category", "manuscripts" | sort: "date" | reverse %}
-{% assign conferences = site.publications | where: "category", "conferences" | sort: "date" | reverse %}
-{% assign all_pubs = manuscripts | concat: conferences %}
 
-{% for post in all_pubs %}
-  {% include archive-single.html index=forloop.index %}
-{% endfor %}
+## Journal Articles
+<ol>
+  {% assign journals = site.publications | where: "category", "manuscripts" | sort: 'date' | reverse %}
+  {% for post in journals %}
+    <li>
+      {% include archive-single.html %}
+    </li>
+  {% endfor %}
+</ol>
+
+## Conference Papers
+<ol>
+  {% assign conferences = site.publications | where: "category", "conferences" | sort: 'date' | reverse %}
+  {% for post in conferences %}
+    <li>
+      {% include archive-single.html %}
+    </li>
+  {% endfor %}
+</ol>
+
 {% endif %}
 
 
