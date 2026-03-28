@@ -35,17 +35,17 @@ See the full publication list on [Publications](/publications) page.
 
 ### [WWW-26] Augmenting Cross-View Geo-Localization with Spatial Semantics from Vision Foundation Models
 ![CVGL](/images/pubimg/CVGL.png)
-- Ji Shen, **Lixing Chen**<sup>*</sup>, Yang Bai, Zhongqi Miao, Zhe Qu, Pan Zhou, Jianhua Li, *Proceedings of the Web Conference (WWW), 2026*. [[Paper](https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md)][[Code](https://github.com/q5756578/SSA_for_CVGL)]
+- Ji Shen, **Lixing Chen***, Yang Bai, Zhongqi Miao, Zhe Qu, Pan Zhou, Jianhua Li, *Proceedings of the Web Conference (WWW), 2026*. [[Paper](https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md)][[Code](https://github.com/q5756578/SSA_for_CVGL)]
 
 ---
 ### [WWW-26] How Human Experts Educate Specialized LLMs: Filling Knowledge Gaps in KG-Augmented Generation through Hallucination Detection
 ![ECspLLM](/images/pubimg/EC-spLLM.png)
-- Chaofan Li, **Lixing Chen**<sup>*</sup>, Junhua Tang, Yang Bai, Yutong Zhang, Zhi Zheng, Pan Zhou, Zhe Qu, *Proceedings of the Web Conference (WWW), 2026*. [[Paper](https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md)][[Code](https://github.com/Bamboowine0/EC-spLLM)]
+- Chaofan Li, **Lixing Chen***, Junhua Tang, Yang Bai, Yutong Zhang, Zhi Zheng, Pan Zhou, Zhe Qu, *Proceedings of the Web Conference (WWW), 2026*. [[Paper](https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md)][[Code](https://github.com/Bamboowine0/EC-spLLM)]
 
 ---
 ### [AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception
 ![CMiMC](/images/pubimg/CMiMC.jpg)
-- Wanfang Su, **Lixing Chen**^*^, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou, *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29705)][[Code](https://github.com/77SWF/CMiMC)]
+- Wanfang Su, **Lixing Chen***, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou, *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29705)][[Code](https://github.com/77SWF/CMiMC)]
 
 ---
 
