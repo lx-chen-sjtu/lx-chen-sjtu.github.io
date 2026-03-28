@@ -31,7 +31,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
 <img src='/images/selected_pub_logo.jpg' width='28' style='vertical-align:middle;'> Selected Publications
 ======
-* indicates corresponding author, # indicates equal contribution. See the full publication list on [Publications](/publications) page.
+\* indicates corresponding author, \# indicates equal contribution. See the full publication list on [Publications](/publications) page.
 
 ### [WWW-26] Augmenting Cross-View Geo-Localization with Spatial Semantics from Vision Foundation Models
 ![CVGL](/images/pubimg/CVGL.png)
