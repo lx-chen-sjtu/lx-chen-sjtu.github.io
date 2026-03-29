@@ -7,5 +7,3 @@ venue: 'Chen Ruiqiu Building, SJTU Minhang Campus'
 date: 2026-03-01
 location: ''
 ---
-
-This is a description of the course.
