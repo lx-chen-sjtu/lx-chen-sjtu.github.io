@@ -17,6 +17,7 @@ My **research interests** include:
 <img src="/images/news_logo.png" width="28" style="vertical-align:middle;"> News
 ======
 Recent updates and highlights:
+- [2026/04] One paper is accepted by ACL 2026
 - [2026/04] Three papers are accepted by WWW 2026
 - [2026/02] One paper is accepted by IEEE TMC
 - [2026/02] One paper is accepted by IEEE TSC
