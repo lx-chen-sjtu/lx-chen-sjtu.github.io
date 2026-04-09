@@ -6,7 +6,7 @@ authors: 'Ji Shen, Lixing Chen<sup>*</sup>, Yang Bai, Zhongqi Miao, Zhe Qu, Pan 
 permalink: '/publication/shen2026augmenting'
 date: 2026-01-01
 venue: 'WWW'
-conf_jourl: 'The Web Conference'
+conf_jourl: 'The Web Conference (Oral)'
 paperurl: ''
 citation: ''
 ---
