@@ -6,7 +6,7 @@ authors: 'Chaofan Li, Lixing Chen<sup>*</sup>, Junhua Tang, Yang Bai, Yutong Zha
 permalink: '/publication/li2026human'
 date: 2026-01-01
 venue: 'WWW'
-conf_jourl: 'The Web Conference (<font color = 'red'>Oral</font>)'
+conf_jourl: 'The Web Conference (<span style="color:red; font-weight:bold;">This part is important</span> 'red'>Oral</span>'
 paperurl: ''
 citation: ''
 ---
