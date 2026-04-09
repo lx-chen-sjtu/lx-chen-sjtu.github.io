@@ -18,7 +18,7 @@ My **research interests** include:
 ======
 Recent updates and highlights:
 - [2026/04] One paper is accepted by ACL 2026
-- [2026/04] Three papers are accepted by WWW 2026
+- [2026/04] Three papers are accepted by WWW 2026 as <span style="color:red; font-weight:bold;">oral</span> presentations
 - [2026/02] One paper is accepted by IEEE TMC
 - [2026/02] One paper is accepted by IEEE TSC
 - [2026/02] One paper is accepted by IEEE ToN
