@@ -6,7 +6,7 @@ authors: 'Dun Tan, Lixing Chen<sup>*</sup>, Bo Zhang, Hongfu Liu, Hao Peng, Shen
 permalink: '/publication/tan2026playing'
 date: 2026-01-01
 venue: 'WWW'
-conf_jourl: 'The Web Conference'
+conf_jourl: 'The Web Conference (Oral)'
 paperurl: ''
 citation: ''
 ---
