@@ -2,7 +2,7 @@
 title: 'SafeAgent: Safeguarding LLM Agents via an Automated Risk Simulator'
 collection: publications
 category: conferences
-authors: 'Xueyang Zhou, Weidong Wang, Lin Lu, Jiawen Shi, Guiyao Tie, Yongtian Xu, Lixing Chen, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun.'
+authors: 'Xueyang Zhou, Weidong Wang, Lin Lu, Jiawen Shi, Guiyao Tie, Yongtian Xu, Lixing Chen*, Pan Zhou, Neil Zhenqiang Gong, Lichao Sun.'
 permalink: '/publication/zhou2026safe'
 date: 2026-04-06
 venue: 'ACL'
