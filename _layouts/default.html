@@ -50,6 +50,30 @@ layout: compress
         document.getElementById("more-btn").style.display = "inline";
         document.getElementById("less-btn").style.display = "none";
       } 
+
+      function pubShowMore() {
+        var items = document.querySelectorAll("#pub-list .pub-item");
+        for (var i = 0; i < items.length; i++) {
+          if (i < 10) {
+            items[i].style.display = "list-item";
+          }
+        }
+        document.getElementById("more-btn").style.display = "none";
+        document.getElementById("less-btn").style.display = "inline";
+      }
+      
+      function showLess() {
+        var items = document.querySelectorAll("#pub-list .pub-item");
+      
+        for (var i = 0; i < items.length; i++) {
+          if (i >= 4) {
+            items[i].style.display = "none";
+          }
+        }
+      
+        document.getElementById("more-btn").style.display = "inline";
+        document.getElementById("less-btn").style.display = "none";
+      } 
       </script>
     
   </body>
