@@ -36,7 +36,21 @@ layout: compress
         }
         document.getElementById("more-btn").style.display = "none";
       }
+      
+      function showLess() {
+        var items = document.querySelectorAll("#news-list .news-item");
+      
+        for (var i = 0; i < items.length; i++) {
+          if (i >= 6) {
+            items[i].style.display = "none";
+          }
+        }
+      
+        document.getElementById("more-btn").style.display = "inline";
+        document.getElementById("less-btn").style.display = "none";
+      } 
       </script>
+    
   </body>
 </html>
 
