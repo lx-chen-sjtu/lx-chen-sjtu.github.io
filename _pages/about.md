@@ -28,9 +28,8 @@ Recent updates and highlights:
   <li class="news-item">[2025/08] One paper is accepted by KDD 2025 </li>
 </ul>
 
-<a href="javascript:void(0);" id="more-btn" onclick="showMore()" class="more-link">
-  Show More>>
-</a>
+<a href="javascript:void(0);" id="more-btn" onclick="showMore()" class="more-link">Show more>></a>
+<a href="javascript:void(0);" id="less-btn" class="more-link" onclick="showLess()" style="display:none;">Show less<<</a>
 
 <img src='/images/prospective_students_logo.png' width='28' style='vertical-align:middle;'> Prospective Students
 ======
