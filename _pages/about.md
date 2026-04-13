@@ -27,7 +27,6 @@ Recent updates and highlights:
   <li class="news-item">[2025/09] One paper is accepted by IEEE TMC </li>
   <li class="news-item">[2025/08] One paper is accepted by KDD 2025 </li>
 </ul>
-
 <a href="javascript:void(0);" id="more-btn" onclick="showMore()" class="more-link">Show more>></a>
 <a href="javascript:void(0);" id="less-btn" class="more-link" onclick="showLess()" style="display:none;">Show less<<</a>
 
@@ -114,5 +113,6 @@ I am always looking for enthusiastic and self-motivated students to work togethe
       <strong>[AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception.</strong> Wanfang Su, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou. <em>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.</em>.<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29705">[Paper]</a><a href="https://github.com/77SWF/CMiMC">[Code]</a>
     </div>
   </li>
-
 </ul>
+<a href="javascript:void(0);" id="pub-more-btn" onclick="pubShowMore()" class="more-link">Show more>></a>
+<a href="javascript:void(0);" id="pub-less-btn" class="more-link" onclick="pubShowLess()" style="display:none;">Show less<<</a>
