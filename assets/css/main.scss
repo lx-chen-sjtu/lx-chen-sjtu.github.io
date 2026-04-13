@@ -47,3 +47,17 @@
 p {
   text-align: justify;
 }
+
+.more-link {
+  color: #888;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 0.95em;
+
+  margin-left: 20px; 
+}
+
+.more-link:hover {
+  color: #555;
+  text-decoration: underline;
+}
