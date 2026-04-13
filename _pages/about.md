@@ -74,10 +74,8 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   <li class="pub-item">
     <img src="/images/pubimg/CVGL.png">
     <div>
-      <strong>[WWW-26] Augmenting Cross-View Geo-Localization with Spatial Semantics from Vision Foundation Models</strong><br>
-      Ji Shen, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Zhongqi Miao, Zhe Qu, Pan Zhou, Jianhua Li<br>
-      <em>Proceedings of the Web Conference (WWW), 2026</em><br>
-      <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a>
+      <strong>[WWW-26] Augmenting Cross-View Geo-Localization with Spatial Semantics from Vision Foundation Models.</strong>
+      Ji Shen, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Zhongqi Miao, Zhe Qu, Pan Zhou, Jianhua Li. <em>Proceedings of the Web Conference (WWW), 2026.</em> <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a>
       <a href="https://github.com/q5756578/SSA_for_CVGL">[Code]</a>
     </div>
   </li>
@@ -85,54 +83,35 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   <li class="pub-item">
     <img src="/images/pubimg/EC-spLLM.png">
     <div>
-      <strong>[WWW-26] How Human Experts Educate Specialized LLMs: Filling Knowledge Gaps in KG-Augmented Generation through Hallucination Detection</strong><br>
-      Chaofan Li, <strong>Lixing Chen</strong><sup>*</sup>, Junhua Tang, Yang Bai, Yutong Zhang, Zhi Zheng, Pan Zhou, Zhe Qu<br>
-      <em>Proceedings of the Web Conference (WWW), 2026</em><br>
-      <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a>
-      <a href="https://github.com/Bamboowine0/EC-spLLM">[Code]</a>
+      <strong>[WWW-26] How Human Experts Educate Specialized LLMs: Filling Knowledge Gaps in KG-Augmented Generation through Hallucination Detection.</strong> Chaofan Li, <strong>Lixing Chen</strong><sup>*</sup>, Junhua Tang, Yang Bai, Yutong Zhang, Zhi Zheng, Pan Zhou, Zhe Qu. <em>Proceedings of the Web Conference (WWW), 2026.</em> <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a><a href="https://github.com/Bamboowine0/EC-spLLM">[Code]</a>
     </div>
   </li>
 
   <li class="pub-item">
     <img src="/images/pubimg/criss_cross_transformer.png">
     <div>
-      <strong>[TSC-26] Time Will Tell: Criss-cross Transformer for Encrypted Traffic Analysis</strong><br>
-      Hua Ding, <strong>Lixing Chen</strong><sup>*</sup>, Bo Zhang, Shenghong Li, Hao Peng, Zhe Qu, Yang Bai<br>
-      <em>IEEE Transactions on Services Computing, 2026</em><br>
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11396346">[Paper]</a>
-      <a href="https://github.com/Amanda-HuaDing/Criss-cross_Traffic_Transformer">[Code]</a>
+      <strong>[TSC-26] Time Will Tell: Criss-cross Transformer for Encrypted Traffic Analysis.</strong> Hua Ding, <strong>Lixing Chen</strong><sup>*</sup>, Bo Zhang, Shenghong Li, Hao Peng, Zhe Qu, Yang Bai. <em>IEEE Transactions on Services Computing, 2026.</em> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11396346">[Paper]</a><a href="https://github.com/Amanda-HuaDing/Criss-cross_Traffic_Transformer">[Code]</a>
     </div>
   </li>
 
   <li class="pub-item">
     <img src="/images/pubimg/HGDS.png">
     <div>
-      <strong>[ToN-26] DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework With Heterogeneous Graph Neural Networks</strong><br>
-      Zhongqi Miao, Xichun Cai, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Zhe Qu, Pan Zhou, Heqiang Wang, Xinping Guan<br>
-      <em>IEEE Transactions on Networking, 2026</em><br>
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11382034">[Paper]</a>
-      <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Code]</a>
+      <strong>[ToN-26] DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework With Heterogeneous Graph Neural Networks.</strong> Zhongqi Miao, Xichun Cai, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Zhe Qu, Pan Zhou, Heqiang Wang, Xinping Guan. <em>IEEE Transactions on Networking, 2026.</em> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11382034">[Paper]</a><a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Code]</a>
     </div>
   </li>
 
   <li class="pub-item">
     <img src="/images/pubimg/wts.png">
     <div>
-      <strong>[KDD-25] Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph</strong><br>
-      Yutong Zhang, <strong>Lixing Chen</strong><sup>*</sup>, Shenghong Li, et al.<br>
-      <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025</em><br>
-      <a href="https://dlnext.acm.org/doi/pdf/10.1145/3690624.3709187">[Paper]</a>
+      <strong>[KDD-25] Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph.</strong> Yutong Zhang, <strong>Lixing Chen</strong><sup>*</sup>, Shenghong Li, et al. <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.</em><a href="https://dlnext.acm.org/doi/pdf/10.1145/3690624.3709187">[Paper]</a>
     </div>
   </li>
 
   <li class="pub-item">
     <img src="/images/pubimg/CMiMC.jpg">
     <div>
-      <strong>[AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception</strong><br>
-      Wanfang Su, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou<br>
-      <em>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024</em><br>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29705">[Paper]</a>
-      <a href="https://github.com/77SWF/CMiMC">[Code]</a>
+      <strong>[AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception.</strong> Wanfang Su, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou. <em>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.</em>.<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29705">[Paper]</a><a href="https://github.com/77SWF/CMiMC">[Code]</a>
     </div>
   </li>
 
