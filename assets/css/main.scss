@@ -75,10 +75,13 @@ p {
   text-decoration: underline;
 }
 
-
 .pub-item {
   display:  block;
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #e0e0e0;  /* 浅灰色横线 */
+}
+
+.pub-item div {
+  text-align: justify;
 }
