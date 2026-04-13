@@ -61,3 +61,24 @@ p {
   color: #666;
   text-decoration: underline;
 }
+
+.pubmore-link {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 0.95em;
+  display: inline-block;
+}
+
+.pub-more-link:hover {
+  color: #666;
+  text-decoration: underline;
+}
+
+
+.pub-item {
+  display: flex;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e0e0e0;  /* 浅灰色横线 */
+}
