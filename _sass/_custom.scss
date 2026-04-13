@@ -12,3 +12,7 @@
 .pub-line a:hover {
   text-decoration: underline;
 }
+
+#news-list .news-item:nth-child(n+7) {
+  display: none;
+}
