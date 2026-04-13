@@ -53,7 +53,8 @@ p {
   text-decoration: none;
   cursor: pointer;
   font-size: 0.95em;
-  margin-left: 40px; 
+  display: inline-block;
+  margin-left: calc(1.2em + 10px);
 }
 
 .more-link:hover {
