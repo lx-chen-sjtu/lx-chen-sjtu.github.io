@@ -17,6 +17,7 @@ My **research interests** include:
 <img src="/images/news_logo.png" width="28" style="vertical-align:middle;"> News
 ======
 Recent updates and highlights:
+<!--
 - [2026/04] One paper is accepted by ACL 2026
 - [2026/04] Three papers are accepted by WWW 2026 as <span style="color:red; font-weight:bold;">oral</span> presentations
 - [2026/02] One paper is accepted by IEEE TMC
@@ -25,6 +26,19 @@ Recent updates and highlights:
 - [2025/12] Two papers are accepted by NeurIPS 2025
 - [2025/09] One paper is accepted by IEEE TMC
 - [2025/08] One paper is accepted by KDD 2025
+-->
+<ul id="news-list">
+  <li class="news-item">[2026/04] One paper is accepted by ACL 2026 </li>
+  <li class="news-item">[2026/04] Three papers are accepted by WWW 2026 as <span style="color:red; font-weight:bold;">oral</span> presentations </li>
+  <li class="news-item">[2026/02] One paper is accepted by IEEE TMC </li>
+  <li class="news-item">[2026/02] One paper is accepted by IEEE TSC </li>
+  <li class="news-item">[2026/02] One paper is accepted by IEEE ToN </li>
+  <li class="news-item">[2025/12] Two papers are accepted by NeurIPS 2025 </li>
+  <li class="news-item">[2025/09] One paper is accepted by IEEE TMC </li>
+  <li class="news-item">[2025/08] One paper is accepted by KDD 2025 </li>
+</ul>
+
+<button id="more-btn" onclick="showMore()">More</button>
 
 <img src='/images/prospective_students_logo.png' width='28' style='vertical-align:middle;'> Prospective Students
 ======
