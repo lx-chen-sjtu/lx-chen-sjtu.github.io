@@ -141,14 +141,3 @@ $(document).ready(function () {
   });
 
 });
-
-//news more dislay
-function showMore() {
-  var items = document.querySelectorAll("#news-list .news-item");
-  for (var i = 0; i < items.length; i++) {
-    if (i < 15) {
-      items[i].style.display = "list-item";
-    }
-  }
-  document.getElementById("more-btn").style.display = "none";
-}
