@@ -114,5 +114,5 @@ I am always looking for enthusiastic and self-motivated students to work togethe
     </div>
   </li>
 </ul>
-<a href="javascript:void(0);" id="pub-more-btn" onclick="pubShowMore()" class="more-link">Show more>></a>
-<a href="javascript:void(0);" id="pub-less-btn" class="more-link" onclick="pubShowLess()" style="display:none;">Show less<<</a>
+<a href="javascript:void(0);" id="pub-more-btn" onclick="pubShowMore()" class="pub-more-link">Show more>></a>
+<a href="javascript:void(0);" id="pub-less-btn" class="pub-more-link" onclick="pubShowLess()" style="display:none;">Show less<<</a>
