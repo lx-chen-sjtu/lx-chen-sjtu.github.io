@@ -72,14 +72,14 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
   <li class="pub-item">
     <div>
-      <strong>[KDD-25] Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph.</strong> Yutong Zhang, <strong>Lixing Chen</strong><sup>*</sup>, Shenghong Li, et al. <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.</em><a href="https://dlnext.acm.org/doi/pdf/10.1145/3690624.3709187">[Paper]</a>
+      <strong>[KDD-25] Way to Specialist: Closing Loop Between Specialized LLM and Evolving Domain Knowledge Graph.</strong> Yutong Zhang, <strong>Lixing Chen</strong><sup>*</sup>, Shenghong Li, et al. <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.</em> <a href="https://dlnext.acm.org/doi/pdf/10.1145/3690624.3709187">[Paper]</a>
     </div>
     <img src="/images/pubimg/wts.png">
   </li>
 
   <li class="pub-item">
     <div>
-      <strong>[AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception.</strong> Wanfang Su, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou. <em>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.</em>.<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29705">[Paper]</a><a href="https://github.com/77SWF/CMiMC">[Code]</a>
+      <strong>[AAAI-24] What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception.</strong> Wanfang Su, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Xi Lin, Gaolei Li, Zhe Qu, Pan Zhou.<em> Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024.</em> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29705">[Paper]</a><a href="https://github.com/77SWF/CMiMC">[Code]</a>
     </div>
     <img src="/images/pubimg/CMiMC.jpg">
   </li>
