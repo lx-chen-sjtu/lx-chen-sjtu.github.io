@@ -1,7 +1,7 @@
 ---
 title: 'Stability and generalization for stochastic recursive momentum-based algorithms for (strongly-) convex one to $ K $-level stochastic optimizations'
 collection: publications
-category: manuscripts
+category: conferences
 authors: 'Xiaokang Pan, Xingyu Li, Jin Liu, Tao Sun, Kai Sun, Lixing Chen, Zhe Qu.'
 permalink: '/publication/pan2024stability'
 date: 2024-01-01
