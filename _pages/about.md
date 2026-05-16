@@ -18,6 +18,7 @@ My **research interests** include:
 ======
 Recent updates and highlights:
 <ul id="news-list">
+  <li class="news-item">[2026/05] One paper is accepted by KDD 2026 </li>
   <li class="news-item">[2026/04] One paper is accepted by ACL 2026 </li>
   <li class="news-item">[2026/04] Three papers are accepted by WWW 2026 as <span style="color:red; font-weight:bold;">oral</span> presentations </li>
   <li class="news-item">[2026/02] One paper is accepted by IEEE TMC </li>
