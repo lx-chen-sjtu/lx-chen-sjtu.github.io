@@ -1,1 +1,12 @@
-
+---
+title: 'Agentic LLMs for Social Network Generation using Explainable Adversarial Re-prompting'
+collection: publications
+category: conferences
+authors: 'Haorui Yan, Lixing Chen<sup>*</sup>, Bo Zhang, Hongfu Liu, Hao Peng, Shenghong Li, Yang Bai, Zhe Qu.'
+permalink: '/publication/yan2026agentic'
+date: 2026-5-01
+venue: 'KDD'
+conf_jourl: 'ACM SIGKDD Conference on Knowledge Discovery and Data Mining'
+paperurl: ''
+citation: ''
+---
