@@ -45,8 +45,8 @@ I am always looking for enthusiastic and self-motivated students to work togethe
   <li class="pub-item">
     <div>
       <strong>[KDD-26] Agentic LLMs for Social Network Generation using Explainable Adversarial Re-prompting.</strong>
-      Haorui Yan, <strong>Lixing Chen</strong><sup>*</sup>, Bo Zhang, Hongfu Liu, Hao Peng, Shenghong Li, Yang Bai, Zhe Qu. <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</em> <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a>
-      <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Code]</a>
+      Haorui Yan, <strong>Lixing Chen</strong><sup>*</sup>, Bo Zhang, Hongfu Liu, Hao Peng, Shenghong Li, Yang Bai, Zhe Qu. <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</em> <a href="">[Paper]</a>
+      <a href="">[Code]</a>
     </div>
     <img src="/images/pubimg/XARP.png">
   </li>
@@ -63,7 +63,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
   <li class="pub-item">
     <div>
-      <strong>[WWW-26] How Human Experts Educate Specialized LLMs: Filling Knowledge Gaps in KG-Augmented Generation through Hallucination Detection.</strong> Chaofan Li, <strong>Lixing Chen</strong><sup>*</sup>, Junhua Tang, Yang Bai, Yutong Zhang, Zhi Zheng, Pan Zhou, Zhe Qu. <em>Proceedings of the Web Conference (WWW), 2026.</em> <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a><a href="https://github.com/Bamboowine0/EC-spLLM">[Code]</a>
+      <strong>[WWW-26] How Human Experts Educate Specialized LLMs: Filling Knowledge Gaps in KG-Augmented Generation through Hallucination Detection.</strong> Chaofan Li, <strong>Lixing Chen</strong><sup>*</sup>, Junhua Tang, Yang Bai, Yutong Zhang, Zhi Zheng, Pan Zhou, Zhe Qu. <em>Proceedings of the Web Conference (WWW), 2026.</em> <a href="">[Paper]</a><a href="https://github.com/Bamboowine0/EC-spLLM">[Code]</a>
     </div>
     <img src="/images/pubimg/EC-spLLM.png">
   </li>
@@ -77,7 +77,7 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 
   <li class="pub-item">
     <div>
-      <strong>[ToN-26] DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework With Heterogeneous Graph Neural Networks.</strong> Zhongqi Miao, Xichun Cai, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Zhe Qu, Pan Zhou, Heqiang Wang, Xinping Guan. <em>IEEE Transactions on Networking, 2026.</em> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11382034">[Paper]</a><a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Code]</a>
+      <strong>[ToN-26] DApp Scheduling for Hybrid Computing in Edge Web 3.0: A Reinforcement Learning Framework With Heterogeneous Graph Neural Networks.</strong> Zhongqi Miao, Xichun Cai, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Zhe Qu, Pan Zhou, Heqiang Wang, Xinping Guan. <em>IEEE Transactions on Networking, 2026.</em> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11382034">[Paper]</a><a href="">[Code]</a>
     </div>
     <img src="/images/pubimg/HGDS.png">
   </li>
