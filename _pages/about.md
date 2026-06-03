@@ -44,6 +44,16 @@ I am always looking for enthusiastic and self-motivated students to work togethe
 <ul id="pub-list" style="list-style:none; padding-left:0;">
   <li class="pub-item">
     <div>
+      <strong>[KDD-26] Agentic LLMs for Social Network Generation using Explainable Adversarial Re-prompting.</strong>
+      Haorui Yan, <strong>Lixing Chen</strong><sup>*</sup>, Bo Zhang, Hongfu Liu, Hao Peng, Shenghong Li, Yang Bai, Zhe Qu. <em>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</em> <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a>
+      <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Code]</a>
+    </div>
+    <img src="/images/pubimg/XARP.png">
+  </li>
+
+<ul id="pub-list" style="list-style:none; padding-left:0;">
+  <li class="pub-item">
+    <div>
       <strong>[WWW-26] Augmenting Cross-View Geo-Localization with Spatial Semantics from Vision Foundation Models.</strong>
       Ji Shen, <strong>Lixing Chen</strong><sup>*</sup>, Yang Bai, Zhongqi Miao, Zhe Qu, Pan Zhou, Jianhua Li. <em>Proceedings of the Web Conference (WWW), 2026.</em> <a href="https://github.com/lx-chen-sjtu/lx-chen-sjtu.github.io/edit/master/_pages/404.md">[Paper]</a>
       <a href="https://github.com/q5756578/SSA_for_CVGL">[Code]</a>
