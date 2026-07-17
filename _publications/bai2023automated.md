@@ -5,7 +5,7 @@ category: manuscripts
 authors: 'Yang Bai, Lixing Chen<sup>*</sup>, Shaolei Ren, Jie Xu.'
 permalink: '/publication/bai2023automated'
 date: 2023-01-01
-venue: 'TMC'
+venue: 'TC'
 conf_jourl: 'IEEE Transactions on Computers'
 paperurl: ''
 citation: ''
