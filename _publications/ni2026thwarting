@@ -2,7 +2,7 @@
 title: 'Augur: Thwarting Traffic Correlation Attacks with Predictive, Real-time Perturbations'
 collection: publications
 category: manuscripts
-authors: 'Xilin Ni, Lixing Chen, Zhongqi Miao, Yang Bai, Zhe Qu, Pan Zhou, Jianhua Li.'
+authors: 'Xilin Ni, Lixing Chen<sup>*</sup>, Zhongqi Miao, Yang Bai, Zhe Qu, Pan Zhou, Jianhua Li.'
 permalink: '/publication/ni2026thwarting'
 date: 2026-08-17
 venue: 'TDSC'
