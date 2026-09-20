@@ -18,6 +18,7 @@ My **research interests** include:
 ======
 Recent updates and highlights:
 <ul id="news-list">
+  <li class="news-item">[2026/09] One paper is accepted by NDSS </li>
   <li class="news-item">[2026/09] One paper is accepted by IEEE TC </li>
   <li class="news-item">[2026/08] One paper is accepted by IEEE TDSC </li>
   <li class="news-item">[2026/07] One paper is accepted by IEEE VIS 2026 </li>
